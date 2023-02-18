@@ -1,9 +1,35 @@
 .about {
     width: 80%;
     display: flex;
+    flex-direction: column;
     margin: auto;
+    gap: 32px;
+}
+
+.about .mainTitle {
+    text-align: center;
 }
 
 .about .mainTitle span{
     color: green;
 }
+
+.about .formula {
+    margin: auto;
+    text-align: center;
+}
+
+.about .formula h3 {
+    margin-bottom: 40px;
+}
+
+.about .secretFormula {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.about .secretFormula .buttonSale {
+    margin: auto;
+}
+
