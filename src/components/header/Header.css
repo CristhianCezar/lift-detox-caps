@@ -1,0 +1,41 @@
+header {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(153, 255, 153, 0.316);
+    padding: 1.6rem 0;
+    z-index: 1;    
+}
+
+.header .whatsapp {
+    background-color: green;
+    padding: 0.8rem;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.header .logoImg {
+    width: 4rem;
+}
+
+.header .whatsappIcon {
+    width: 2rem;
+}
+
+.header .listLinks nav ul {
+    display: flex;
+    gap: 3.2rem;
+    font-size: 1.6rem;
+}
+
+.header ul a {
+    color: black;   
+}
+
+.header ul li:hover {
+    border-bottom: 3px solid white;
+    transform: scale(1.1);
+    transition: 0.3s;
+}
