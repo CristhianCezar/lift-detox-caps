@@ -31,7 +31,8 @@ header {
 }
 
 .header ul a {
-    color: black;   
+    color: black; 
+    text-align: center;
 }
 
 .header ul li:hover {

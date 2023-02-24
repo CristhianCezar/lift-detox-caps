@@ -4,12 +4,18 @@ import ButtonSale from "../buttonSale/ButtonSale";
 
 export default function Main() {
     return (
-        <>
-                <section className="main">
-                    <a href="salling" className="buttonSale">
-                        <ButtonSale/>
+        <div>
+            <section className="main">
+                <div className="imgDefault">
+                     <a 
+                        href="https://ev.braip.com/pv/lip25g9e/afiy88997" 
+                        target='_blanck' 
+                        className="buttonSale">
+                        <ButtonSale sale="Click Aqui Para Comprar" haveBg="backgroundTrue"/>
                     </a>
-                </section>
-        </>
+                </div>
+               
+            </section>
+        </div>
     ) 
 }

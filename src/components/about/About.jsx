@@ -11,8 +11,8 @@ export default function About() {
                 <h3>A formula por traz do Lift Detox</h3>
                 <div className="secretFormula">
                     <img src={SegredoDaFormula} alt="..."/>
-                    <a href="salling" className="buttonSale">
-                        <ButtonSale/>
+                    <a href="https://ev.braip.com/pv/lip25g9e/afiy88997" target='_blanck' className="buttonSale" id='about'>
+                        <ButtonSale sale="Click Aqui Para Comprar" haveBg="backgroundTrue"/>
                     </a>
                 </div>
             </div>
