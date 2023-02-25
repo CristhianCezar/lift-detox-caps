@@ -6,11 +6,12 @@ header {
     align-items: center;
     background-color: rgba(153, 255, 153, 0.316);
     padding: 1.2rem 0;
-    z-index: 1;    
+    z-index: 1;   
+    position: relative;
 }
 
 .header .whatsapp {
-    background-color: green;
+    background-color: rgba(0, 128, 0, 0.603);
     padding: 0.8rem;
     border-radius: 50%;
     cursor: pointer;
@@ -22,21 +23,4 @@ header {
 
 .header .whatsappIcon {
     width: 2rem;
-}
-
-.header .listLinks nav ul {
-    display: flex;
-    gap: 3.2rem;
-    font-size: 1.6rem;
-}
-
-.header ul a {
-    color: black; 
-    text-align: center;
-}
-
-.header ul li:hover {
-    border-bottom: 3px solid white;
-    transform: scale(1.1);
-    transition: 0.3s;
 }

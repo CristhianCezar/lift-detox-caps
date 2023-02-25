@@ -6,9 +6,8 @@ export default function Footer() {
     return (
         <footer> 
             <div className="container">
-                <div className="linksFooter">
                     <div className="links">
-                        <h3>Dicas de Receitas e Orientações</h3>
+                        <h3>Dicas, Receitas e Orientações</h3>
                         <ul>
                             <li>
                                 <a 
@@ -40,10 +39,9 @@ export default function Footer() {
                             </li>
                         </ul>
                     </div>
-                </div>
                 <div className="notifications">
-                    <h2>EMAGRECIMENTO COMPROVADO!</h2>
-                    <h3>OU SEU DINHEIRO DE VOLTA</h3>
+                    <h2>Emagrecimento Comprovado</h2>
+                    <h3>Ou seu dinheiro de volta!</h3>
                     <p>
                         É sério! Você fica satisfeito, ou compramos o Lift Detox Caps de volta de você! Se por qualquer motivo achar que o Lift Detox não ajudou, nós nos comprometemos em devolver a quantia paga pelo seu kit de potes de Lift Detox Caps. Temos certeza que Lift Detox vai cumprir com o prometido, por isso nossa garantia é de 30 DIAS.
                     </p>                

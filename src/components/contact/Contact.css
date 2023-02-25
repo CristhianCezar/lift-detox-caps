@@ -76,3 +76,27 @@
 .contact form button:active {
     border: 2px solid rgba(0, 0, 0, 0.632);
 }
+
+@media (max-width: 601px) {
+    .contact h2 {
+        width: 80%;
+        margin: auto;
+    }
+
+    .contact {
+        display: flex;
+        flex-direction: column;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contact .form  form{
+        margin-left: 0;
+        width: fit-content;
+    }
+
+    .contact form input, textarea {
+        width: 20rem;
+    }
+}

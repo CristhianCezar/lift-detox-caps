@@ -1,6 +1,6 @@
 footer {
     margin-top: 48px;
-    background-color: rgba(153, 255, 153, 0.251);
+    background-color: #99ff9940;
     padding: 64px 0;
 }
 footer .container{
@@ -53,4 +53,45 @@ footer .notifications h2 {
 
 footer .notifications p {
     max-width: 400px;
+}
+
+
+@media (max-width: 1200px) {
+    footer .container {
+        justify-content: space-between;
+        width: 85%;
+    }   
+}
+
+@media (max-width: 800px) {
+    footer .container {
+        width: 95%;
+    }
+
+    footer .notifications h2 {
+        font-size: 20px;
+
+    }
+}
+
+@media (max-width: 601px) {
+    footer .container {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        align-items: center;
+    }
+
+    footer .links {
+        text-align: center;
+        margin-bottom: 24px;
+    }
+
+    footer .notifications {
+        text-align: center;
+    }
+
+    footer ul {
+        gap: 24px;
+    }
 }

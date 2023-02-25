@@ -4,9 +4,6 @@
     flex-direction: column;
     margin: auto;
     gap: 32px;
-}
-
-.about .mainTitle {
     text-align: center;
 }
 
@@ -24,12 +21,27 @@
 }
 
 .about .secretFormula {
+    margin: auto;
     display: flex;
     flex-direction: column;
-    gap: 32px;
+    align-items: center;
+    gap: 48px;
 }
 
-.about .secretFormula .buttonSale {
-    margin: auto;
+.about .secretFormula img {
+    width: 100%;
 }
 
+@media (max-width: 600px) {
+    .about {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .about h1 {
+        width: 80%;
+        text-align: center;
+    }
+}
