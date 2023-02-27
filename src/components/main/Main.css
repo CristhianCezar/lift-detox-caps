@@ -17,15 +17,16 @@
 @media (max-width: 1200px) {
     .main {
         width: 100%;
-        height: 100vh;
-        background-image: url("../../img/LiftDetoxCaps.jpg");
-        background-repeat: no-repeat;
-        background-position: center top;
-        background-size: 100% 100%;    
+        height: 100vh;   
     }
 } 
 
 @media (max-width: 550px) {
+    .main {
+        height: 86vh;
+        background-image: url("../../img/LiftDetoxCaps.jpg");
+    }
+
     .main .imgDefault {
         width: fit-content;
         position: relative;
