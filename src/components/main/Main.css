@@ -23,8 +23,9 @@
 
 @media (max-width: 550px) {
     .main {
-        height: 86vh;
+        height: 80vh;
         background-image: url("../../img/LiftDetoxCaps.jpg");
+        margin-bottom: 48px;
     }
 
     .main .imgDefault {

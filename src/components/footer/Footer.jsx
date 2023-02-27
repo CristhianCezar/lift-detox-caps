@@ -11,20 +11,6 @@ export default function Footer() {
                         <ul>
                             <li>
                                 <a 
-                                    href="https://drive.google.com/file/d/1cU2wgvA0Y6eN3CjZbuwMcryh5V4IYKED/view?usp=sharing" 
-                                    target="_blanck">                                    
-                                    Receitas Detox para Melhorar seu Dia a Dia
-                                </a>
-                            </li>
-                            <li>
-                                <a 
-                                    href="https://drive.google.com/file/d/1cTt4gTpFcjhxWDg9YxQLvNili5BUcpyM/view?usp=sharing" 
-                                    target="_blanck">                                    
-                                    Ebook sobre Saúde e Emagrecimento
-                                </a>
-                            </li>
-                            <li>
-                                <a 
                                     href="https://drive.google.com/file/d/1dGYaSBp7c2HUrtJfjMlYjUDUgA5VgACt/view?usp=sharing" 
                                     target="_blanck">                                    
                                     Orientação de uso Lift Detox
@@ -40,7 +26,7 @@ export default function Footer() {
                         </ul>
                     </div>
                 <div className="notifications">
-                    <h2>Emagrecimento Comprovado</h2>
+                    <h2>Resultado Comprovado</h2>
                     <h3>Ou seu dinheiro de volta!</h3>
                     <p>
                         É sério! Você fica satisfeito, ou compramos o Lift Detox Caps de volta de você! Se por qualquer motivo achar que o Lift Detox não ajudou, nós nos comprometemos em devolver a quantia paga pelo seu kit de potes de Lift Detox Caps. Temos certeza que Lift Detox vai cumprir com o prometido, por isso nossa garantia é de 30 DIAS.
