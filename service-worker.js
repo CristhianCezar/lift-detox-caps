@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lift-detox-caps/precache-manifest.266a644230528a7d062188f8f9039bdd.js"
+  "/lift-detox-caps/precache-manifest.13e430ea5b7bc3c907128de32a5c5dc3.js"
 );
 
 workbox.clientsClaim();
