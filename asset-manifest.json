@@ -1,7 +1,7 @@
 {
-  "main.css": "/lift-detox-caps/static/css/main.3d391334.chunk.css",
-  "main.js": "/lift-detox-caps/static/js/main.4fb05176.chunk.js",
-  "main.js.map": "/lift-detox-caps/static/js/main.4fb05176.chunk.js.map",
+  "main.css": "/lift-detox-caps/static/css/main.680c9bdd.chunk.css",
+  "main.js": "/lift-detox-caps/static/js/main.35bbf4ca.chunk.js",
+  "main.js.map": "/lift-detox-caps/static/js/main.35bbf4ca.chunk.js.map",
   "static/js/1.91b4e6e3.chunk.js": "/lift-detox-caps/static/js/1.91b4e6e3.chunk.js",
   "static/js/1.91b4e6e3.chunk.js.map": "/lift-detox-caps/static/js/1.91b4e6e3.chunk.js.map",
   "runtime~main.js": "/lift-detox-caps/static/js/runtime~main.70590801.js",
@@ -14,8 +14,8 @@
   "static/media/mulherFazendoAlongamentoNaRua.jpeg": "/lift-detox-caps/static/media/mulherFazendoAlongamentoNaRua.bb934f2d.jpeg",
   "static/media/liftDetoxGarantia.png": "/lift-detox-caps/static/media/liftDetoxGarantia.f827bed8.png",
   "static/media/Main.css": "/lift-detox-caps/static/media/LiftDetoxCaps.9ba305d3.jpg",
-  "static/css/main.3d391334.chunk.css.map": "/lift-detox-caps/static/css/main.3d391334.chunk.css.map",
+  "static/css/main.680c9bdd.chunk.css.map": "/lift-detox-caps/static/css/main.680c9bdd.chunk.css.map",
   "index.html": "/lift-detox-caps/index.html",
-  "precache-manifest.13e430ea5b7bc3c907128de32a5c5dc3.js": "/lift-detox-caps/precache-manifest.13e430ea5b7bc3c907128de32a5c5dc3.js",
+  "precache-manifest.52bbe402a4b87072430b066c427ada58.js": "/lift-detox-caps/precache-manifest.52bbe402a4b87072430b066c427ada58.js",
   "service-worker.js": "/lift-detox-caps/service-worker.js"
 }

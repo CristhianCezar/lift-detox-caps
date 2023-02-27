@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4fb051761c9dd17f9c81",
-    "url": "/lift-detox-caps/static/css/main.3d391334.chunk.css"
+    "revision": "35bbf4cac3f14a4fb704",
+    "url": "/lift-detox-caps/static/css/main.680c9bdd.chunk.css"
   },
   {
-    "revision": "4fb051761c9dd17f9c81",
-    "url": "/lift-detox-caps/static/js/main.4fb05176.chunk.js"
+    "revision": "35bbf4cac3f14a4fb704",
+    "url": "/lift-detox-caps/static/js/main.35bbf4ca.chunk.js"
   },
   {
     "revision": "91b4e6e336f9c52afa92",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/lift-detox-caps/static/media/LiftDetoxCaps.9ba305d3.jpg"
   },
   {
-    "revision": "dec960d29933eb1f6f076a96df8c2eb5",
+    "revision": "7525ee9d8dabc27e64f5c1520b29a63e",
     "url": "/lift-detox-caps/index.html"
   }
 ];
