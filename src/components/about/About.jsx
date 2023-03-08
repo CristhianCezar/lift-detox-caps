@@ -12,7 +12,7 @@ export default function About() {
                 <div className="secretFormula">
                     <img src={SegredoDaFormula} alt="..."/>
                     <a href="https://ev.braip.com/pv/lip25g9e/afiy88997" target='_blanck' className="buttonSale" id='about'>
-                        <ButtonSale sale="Click Aqui Para Comprar" haveBg="backgroundTrue"/>
+                        <ButtonSale sale="Saiba Mais" haveBg="backgroundTrue"/>
                     </a>
                 </div>
             </div>

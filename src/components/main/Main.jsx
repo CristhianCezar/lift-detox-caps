@@ -11,7 +11,7 @@ export default function Main() {
                         href="https://ev.braip.com/pv/lip25g9e/afiy88997" 
                         target='_blanck' 
                         className="buttonSale">
-                        <ButtonSale sale="Click Aqui Para Comprar" haveBg="backgroundTrue"/>
+                        <ButtonSale sale="Saiba Mais" haveBg="backgroundTrue"/>
                     </a>
                 </div>
                
