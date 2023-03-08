@@ -99,4 +99,8 @@
     .contact form input, textarea {
         width: 20rem;
     }
+
+    .contact form button {
+        color: black;
+    }
 }

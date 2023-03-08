@@ -23,7 +23,7 @@ export default function Contact() {
                     <label htmlFor="message">Mande suas Dúvidas</label>
                     <textarea name="message" id="message" cols="5" rows="8"></textarea>
 
-                    <button type="submit" >Enviar</button>
+                    <button type="submit">Enviar</button>
                 </form>
             </div>
         </div>
